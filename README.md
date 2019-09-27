@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first Ruby on Rails application. It's a simple app that a user can add the make, model, and year of a car to a database.
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version 
+    2.6.4p104
 
 * System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
+    heroku/7.30.1 darwin-x64 node-v11.14.0
+      
 * Deployment instructions
-
-* ...
+    Use heroku open in termimal to launch the app
